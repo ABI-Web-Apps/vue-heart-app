@@ -1,19 +1,18 @@
 <template>
     <v-app>
       <v-main >
-        <router-view></router-view>
-<!--        <Slider/>-->
+        <Home/>
       </v-main>
     </v-app>
 </template>
 
 <script>
-  // import Slider from "@/views/Slider";
+  import Home from "@/Components/Home";
 
   export default {
     name: 'App',
     components: {
-      // Slider,
+      Home,
     },
   };
 </script>
