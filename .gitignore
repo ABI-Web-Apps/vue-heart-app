@@ -131,5 +131,8 @@ dmypy.json
 # Pycharm .idea folder
 .idea/
 
-# Modoules
+# node_modules folder
 node_modules/
+
+# tutorial.nblink file
+docs/source/tutorial.nblink
