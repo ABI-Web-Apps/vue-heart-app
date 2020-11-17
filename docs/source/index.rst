@@ -3,8 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to your project's documentation!
-========================================
+Welcome to the vue-heart-app documentation!
+============================================
+
 
 This documentation outlines ...
 
@@ -14,10 +15,10 @@ This documentation outlines ...
 
    contributors
    introduction
-   tutorial
+   your-tutorial
 
 Indices and tables
-==================
+=====================
 
 * :ref:`genindex`
 * :ref:`modindex`

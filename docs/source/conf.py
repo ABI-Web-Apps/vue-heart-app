@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Your project'
+project = 'vue-heart-app'
 copyright = '2020, Your name'
 author = 'Your name'
 
@@ -66,8 +66,10 @@ master_doc = 'index'
 # Configures Sphinx to read all files with the extensions .md and .rst.
 source_suffix = {
     '.rst': 'restructuredtext',
+    '.txt': 'markdown',
     '.md': 'markdown',
 }
+
 
 html_context = {
     'css_files': [
