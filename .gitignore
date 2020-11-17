@@ -130,3 +130,6 @@ dmypy.json
 
 # Pycharm .idea folder
 .idea/
+
+# Modoules
+node_modules/
