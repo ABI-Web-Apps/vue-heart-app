@@ -5,10 +5,10 @@ This project is a great example to show what components are and how they can pas
 
 Project setup
 ~~~~~~~~~~~~~~~~
-- install `vue.js <https://vuejs.org/v2/guide/installation.html>`_  which is a progressive framework for building user interfaces.
+- Install `vue.js <https://vuejs.org/v2/guide/installation.html>`_  which is a progressive framework for building user interfaces.
 - Import/Install `three.js <https://threejs.org/>`_,  then create or load a `3D model <https://github.com/mrdoob/three.js/blob/dev/README.md>`_.
 - Create a range slider to control the 3D model.
-- Create child components that interact with App.vue(parent component) based on `props <https://vuejs.org/v2/guide/components-props.html>`_ (in Vue, props (or properties), are the way that we pass data from a parent component down to its child components.) and `Custom Events <https://vuejs.org/v2/guide/components-custom-events.html>`_. Visit `Components <https://vuejs.org/v2/guide/components.html>`_ to learn more.
+- Create child components that interact with app.vue (parent component) based on `props <https://vuejs.org/v2/guide/components-props.html>`_ (in Vue, props (or properties) are the way that we pass data from a parent component down to its child components.) and `Custom Events <https://vuejs.org/v2/guide/components-custom-events.html>`_. Visit `Components <https://vuejs.org/v2/guide/components.html>`_ to learn more.
 
 The following example shows how to create a slider:
 
@@ -45,3 +45,22 @@ and:
           }
        }
     }
+
+Project setup from GitHub
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You can find the code in `GitHub <https://github.com/ABI-Web-Apps/vue-heart-app/tree/develop-mohammad>`_.
+
+* Clone the repository::
+
+    git clone https://github.com/ABI-Web-Apps/vue-heart-app.git
+
+
+* Setup::
+
+    npm install
+
+
+* Run the application::
+
+    npm run serve
