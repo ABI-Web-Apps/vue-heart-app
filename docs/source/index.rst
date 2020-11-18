@@ -15,7 +15,7 @@ This documentation outlines ...
 
    contributors
    introduction
-   your-tutorial
+   tutorial
 
 Indices and tables
 =====================
