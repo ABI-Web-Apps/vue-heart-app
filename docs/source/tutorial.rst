@@ -12,9 +12,7 @@ Project setup
 
 The following example shows how to create a slider:
 
-
 .. code-block:: html
-    :linenos:
 
     <template>
       <div id="container">
@@ -35,11 +33,9 @@ The following example shows how to create a slider:
       </div>
     </template>
 
-And:
+and:
 
 .. code-block:: javascript
-    :linenos:
-    :emphasize-lines: 5
 
     export default {
        name: "Slider",
